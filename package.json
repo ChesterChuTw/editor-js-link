@@ -1,6 +1,6 @@
 {
-  "name": "@editorjs/link",
-  "version": "2.4.1",
+  "name": "@ct-note/link",
+  "version": "1.0.0",
   "keywords": [
     "codex editor",
     "tool",
@@ -8,11 +8,11 @@
     "editor.js",
     "editor"
   ],
-  "description": "Link Tool for Editor.js",
+  "description": "A clone from Link Tool for Editor.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/editor-js/link.git"
+    "url": "git+https://github.com/ChesterChuTw/editor-js-link.git"
   },
   "main": "./dist/bundle.js",
   "scripts": {
